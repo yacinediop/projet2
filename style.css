@@ -1,0 +1,25 @@
+* {
+    font-size: 1rem !important;
+}
+
+input,
+div {
+    width: 100% !important;
+}
+
+form {
+    max-width: 600px !important;
+}
+
+#edit {
+    display: none;
+}
+body{
+    background-image: url(./light.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: top;
+    font-family: arial;
+    font-size: 13px;
+    margin: 0;
+}
